@@ -50,7 +50,7 @@ This is a list of awesome resources about VLC and LibVLC.
 
 ## Bindings
 
-* [LibVLCSharp](https://github.com/videolan/libvlcsharp) ⭐ 1,734 | 🐛 4 | 🌐 C# | 📅 2026-01-20 - Cross-platform .NET/Mono bindings for LibVLC.
+* [LibVLCSharp](https://github.com/videolan/libvlcsharp) ⭐ 1,735 | 🐛 4 | 🌐 C# | 📅 2026-01-20 - Cross-platform .NET/Mono bindings for LibVLC.
 * [vlcj](https://github.com/caprica/vlcj) ⭐ 1,224 | 🐛 1 | 🌐 Java | 📅 2025-12-05 -  Java framework for the vlc media player (desktop).
 * [WebChimera.js](https://github.com/RSATom/WebChimera.js) ⚠️ Archived - Electron bindings for libvlc.
 * [flutter\_vlc\_player](https://github.com/solid-software/flutter_vlc_player) ⭐ 599 | 🐛 363 | 🌐 Dart | 📅 2025-09-25 - Flutter bindings to LibVLC.
