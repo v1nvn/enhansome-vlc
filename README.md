@@ -35,7 +35,7 @@ This is a list of awesome resources about VLC and LibVLC.
 ## VLC web & lua extensions
 
 * [TraktForVLC](https://github.com/XaF/TraktForVLC) ⭐ 315 | 🐛 32 | 🌐 Python | 📅 2019-02-03 - Automatically trakt.tv what you're watching on VLC.
-* [vlc-delete](https://github.com/surrim/vlc-delete) ⭐ 105 | 🐛 6 | 🌐 Lua | 📅 2025-12-25 - VLC extension to remove videos from the hard disk.
+* [vlc-delete](https://github.com/surrim/vlc-delete) ⭐ 106 | 🐛 6 | 🌐 Lua | 📅 2025-12-25 - VLC extension to remove videos from the hard disk.
 * [vlc-super-skipper](https://github.com/Trevelopment/vlc-super-skipper) ⭐ 16 | 🐛 1 | 🌐 Lua | 📅 2021-08-12 - Automatically Skip Opening and Ending Sequences.
 * [vlc-mcp-server](https://github.com/piebro/vlc-mcp-server) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2025-06-11 -  An MCP (Model Context Protocol) Server to play and control movies using the VLC HTTP API and natural language using an LLM.
 * [playlist-youtube-vlc](https://github.com/Abstraxt-AA/playlist-youtube-vlc) ⭐ 7 | 🐛 0 | 🌐 Lua | 📅 2021-09-26 - Lua plugin to parse Youtube playlists.
@@ -50,10 +50,10 @@ This is a list of awesome resources about VLC and LibVLC.
 
 ## Bindings
 
-* [LibVLCSharp](https://github.com/videolan/libvlcsharp) ⭐ 1,734 | 🐛 4 | 🌐 C# | 📅 2026-01-20 - Cross-platform .NET/Mono bindings for LibVLC.
+* [LibVLCSharp](https://github.com/videolan/libvlcsharp) ⭐ 1,735 | 🐛 4 | 🌐 C# | 📅 2026-01-20 - Cross-platform .NET/Mono bindings for LibVLC.
 * [vlcj](https://github.com/caprica/vlcj) ⭐ 1,224 | 🐛 1 | 🌐 Java | 📅 2025-12-05 -  Java framework for the vlc media player (desktop).
 * [WebChimera.js](https://github.com/RSATom/WebChimera.js) ⚠️ Archived - Electron bindings for libvlc.
-* [flutter\_vlc\_player](https://github.com/solid-software/flutter_vlc_player) ⭐ 599 | 🐛 363 | 🌐 Dart | 📅 2025-09-25 - Flutter bindings to LibVLC.
+* [flutter\_vlc\_player](https://github.com/solid-software/flutter_vlc_player) ⭐ 600 | 🐛 363 | 🌐 Dart | 📅 2025-09-25 - Flutter bindings to LibVLC.
 * [dart\_vlc](https://github.com/alexmercerind/dart_vlc) ⭐ 529 | 🐛 53 | 🌐 C++ | 📅 2024-06-14 - Dart bindings for libvlc.
 * [libvlc-go](https://github.com/adrg/libvlc-go) ⭐ 505 | 🐛 11 | 🌐 Go | 📅 2025-12-03 - Go bindings for libVLC and high-level media player interface.
 * [python-vlc](https://github.com/oaubert/python-vlc) ⭐ 433 | 🐛 91 | 🌐 Python | 📅 2025-06-09 - Python vlc bindings.
