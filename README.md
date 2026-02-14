@@ -25,7 +25,7 @@ This is a list of awesome resources about VLC and LibVLC.
 
 ## VLC native plugins
 
-* [vlc-pause-click-plugin](https://github.com/nurupo/vlc-pause-click-plugin) ⭐ 1,139 | 🐛 18 | 🌐 C | 📅 2025-01-28 - Plugin for VLC that pauses/plays video on mouse click.
+* [vlc-pause-click-plugin](https://github.com/nurupo/vlc-pause-click-plugin) ⭐ 1,141 | 🐛 18 | 🌐 C | 📅 2025-01-28 - Plugin for VLC that pauses/plays video on mouse click.
 * [vlc-bittorrent](https://github.com/johang/vlc-bittorrent) ⭐ 472 | 🐛 8 | 🌐 C++ | 📅 2026-02-04 - A bittorrent plugin for VLC.
 * [vlc-win10smtc](https://github.com/spmn/vlc-win10smtc) ⭐ 103 | 🐛 1 | 🌐 C++ | 📅 2024-10-06 - Plugin that integrates VLC Media Player with Windows 10 System Media Transport Controls (SMTC).
 * [vlc-tip-plugin](https://github.com/aklexel/vlc-tip-plugin) ⭐ 61 | 🐛 2 | 🌐 C | 📅 2020-05-24 - TIP (translate it, please) is a plugin for VLC media player that helps you to study languages by watching videos.
@@ -51,7 +51,7 @@ This is a list of awesome resources about VLC and LibVLC.
 ## Bindings
 
 * [LibVLCSharp](https://github.com/videolan/libvlcsharp) ⭐ 1,735 | 🐛 4 | 🌐 C# | 📅 2026-01-20 - Cross-platform .NET/Mono bindings for LibVLC.
-* [vlcj](https://github.com/caprica/vlcj) ⭐ 1,224 | 🐛 1 | 🌐 Java | 📅 2025-12-05 -  Java framework for the vlc media player (desktop).
+* [vlcj](https://github.com/caprica/vlcj) ⭐ 1,224 | 🐛 1 | 🌐 Java | 📅 2026-02-13 -  Java framework for the vlc media player (desktop).
 * [WebChimera.js](https://github.com/RSATom/WebChimera.js) ⚠️ Archived - Electron bindings for libvlc.
 * [flutter\_vlc\_player](https://github.com/solid-software/flutter_vlc_player) ⭐ 600 | 🐛 363 | 🌐 Dart | 📅 2025-09-25 - Flutter bindings to LibVLC.
 * [dart\_vlc](https://github.com/alexmercerind/dart_vlc) ⭐ 529 | 🐛 53 | 🌐 C++ | 📅 2024-06-14 - Dart bindings for libvlc.
