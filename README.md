@@ -1,4 +1,4 @@
-# Awesome VLC [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [<img src="https://cdn.worldvectorlogo.com/logos/vlc.svg" align="right" alt="VLC" width="128">](https://github.com/mfkl/awesome-vlc) ⭐ 262 | 🐛 0 | 📅 2025-04-28 with stars
+# Awesome VLC [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [<img src="https://cdn.worldvectorlogo.com/logos/vlc.svg" align="right" alt="VLC" width="128">](https://github.com/mfkl/awesome-vlc) ⭐ 263 | 🐛 0 | 📅 2025-04-28 with stars
 
 > [VLC](https://www.videolan.org/vlc/) is a free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols.
 
@@ -50,10 +50,10 @@ This is a list of awesome resources about VLC and LibVLC.
 
 ## Bindings
 
-* [LibVLCSharp](https://github.com/videolan/libvlcsharp) ⭐ 1,747 | 🐛 4 | 🌐 C# | 📅 2026-02-25 - Cross-platform .NET/Mono bindings for LibVLC.
+* [LibVLCSharp](https://github.com/videolan/libvlcsharp) ⭐ 1,746 | 🐛 4 | 🌐 C# | 📅 2026-02-25 - Cross-platform .NET/Mono bindings for LibVLC.
 * [vlcj](https://github.com/caprica/vlcj) ⭐ 1,227 | 🐛 1 | 🌐 Java | 📅 2026-02-22 -  Java framework for the vlc media player (desktop).
 * [WebChimera.js](https://github.com/RSATom/WebChimera.js) ⚠️ Archived - Electron bindings for libvlc.
-* [flutter\_vlc\_player](https://github.com/solid-software/flutter_vlc_player) ⭐ 603 | 🐛 363 | 🌐 Dart | 📅 2025-09-25 - Flutter bindings to LibVLC.
+* [flutter\_vlc\_player](https://github.com/solid-software/flutter_vlc_player) ⭐ 604 | 🐛 363 | 🌐 Dart | 📅 2025-09-25 - Flutter bindings to LibVLC.
 * [dart\_vlc](https://github.com/alexmercerind/dart_vlc) ⭐ 528 | 🐛 53 | 🌐 C++ | 📅 2024-06-14 - Dart bindings for libvlc.
 * [libvlc-go](https://github.com/adrg/libvlc-go) ⭐ 505 | 🐛 12 | 🌐 Go | 📅 2025-12-03 - Go bindings for libVLC and high-level media player interface.
 * [python-vlc](https://github.com/oaubert/python-vlc) ⭐ 433 | 🐛 91 | 🌐 Python | 📅 2025-06-09 - Python vlc bindings.
