@@ -26,7 +26,7 @@ This is a list of awesome resources about VLC and LibVLC.
 ## VLC native plugins
 
 * [vlc-pause-click-plugin](https://github.com/nurupo/vlc-pause-click-plugin) ⭐ 1,151 | 🐛 19 | 🌐 C | 📅 2025-01-28 - Plugin for VLC that pauses/plays video on mouse click.
-* [vlc-bittorrent](https://github.com/johang/vlc-bittorrent) ⭐ 473 | 🐛 9 | 🌐 C++ | 📅 2026-02-04 - A bittorrent plugin for VLC.
+* [vlc-bittorrent](https://github.com/johang/vlc-bittorrent) ⭐ 473 | 🐛 8 | 🌐 C++ | 📅 2026-03-11 - A bittorrent plugin for VLC.
 * [vlc-win10smtc](https://github.com/spmn/vlc-win10smtc) ⭐ 105 | 🐛 1 | 🌐 C++ | 📅 2024-10-06 - Plugin that integrates VLC Media Player with Windows 10 System Media Transport Controls (SMTC).
 * [vlc-tip-plugin](https://github.com/aklexel/vlc-tip-plugin) ⭐ 60 | 🐛 2 | 🌐 C | 📅 2020-05-24 - TIP (translate it, please) is a plugin for VLC media player that helps you to study languages by watching videos.
 * [vlc-plugin-marker](https://github.com/nemosharma6/vlc-plugin-marker) ⭐ 11 | 🐛 1 | 🌐 Lua | 📅 2019-06-01 - The marker plugin provides you the ability to mark important sections of a video. These sections can be viewed later without the need to search for it in the entire video.
