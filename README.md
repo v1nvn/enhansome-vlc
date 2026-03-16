@@ -34,7 +34,7 @@ This is a list of awesome resources about VLC and LibVLC.
 
 ## VLC web & lua extensions
 
-* [TraktForVLC](https://github.com/XaF/TraktForVLC) ⭐ 314 | 🐛 32 | 🌐 Python | 📅 2019-02-03 - Automatically trakt.tv what you're watching on VLC.
+* [TraktForVLC](https://github.com/XaF/TraktForVLC) ⭐ 313 | 🐛 32 | 🌐 Python | 📅 2019-02-03 - Automatically trakt.tv what you're watching on VLC.
 * [vlc-delete](https://github.com/surrim/vlc-delete) ⭐ 109 | 🐛 6 | 🌐 Lua | 📅 2025-12-25 - VLC extension to remove videos from the hard disk.
 * [vlc-super-skipper](https://github.com/Trevelopment/vlc-super-skipper) ⭐ 16 | 🐛 1 | 🌐 Lua | 📅 2021-08-12 - Automatically Skip Opening and Ending Sequences.
 * [vlc-mcp-server](https://github.com/piebro/vlc-mcp-server) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2025-06-11 -  An MCP (Model Context Protocol) Server to play and control movies using the VLC HTTP API and natural language using an LLM.
@@ -50,7 +50,7 @@ This is a list of awesome resources about VLC and LibVLC.
 
 ## Bindings
 
-* [LibVLCSharp](https://github.com/videolan/libvlcsharp) ⭐ 1,747 | 🐛 5 | 🌐 C# | 📅 2026-02-25 - Cross-platform .NET/Mono bindings for LibVLC.
+* [LibVLCSharp](https://github.com/videolan/libvlcsharp) ⭐ 1,748 | 🐛 5 | 🌐 C# | 📅 2026-02-25 - Cross-platform .NET/Mono bindings for LibVLC.
 * [vlcj](https://github.com/caprica/vlcj) ⭐ 1,227 | 🐛 1 | 🌐 Java | 📅 2026-02-22 -  Java framework for the vlc media player (desktop).
 * [WebChimera.js](https://github.com/RSATom/WebChimera.js) ⚠️ Archived - Electron bindings for libvlc.
 * [flutter\_vlc\_player](https://github.com/solid-software/flutter_vlc_player) ⭐ 604 | 🐛 364 | 🌐 Dart | 📅 2025-09-25 - Flutter bindings to LibVLC.
