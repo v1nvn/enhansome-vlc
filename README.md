@@ -1,4 +1,4 @@
-# Awesome VLC [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [<img src="https://cdn.worldvectorlogo.com/logos/vlc.svg" align="right" alt="VLC" width="128">](https://github.com/mfkl/awesome-vlc) ⭐ 263 | 🐛 0 | 📅 2025-04-28 with stars
+# Awesome VLC [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [<img src="https://cdn.worldvectorlogo.com/logos/vlc.svg" align="right" alt="VLC" width="128">](https://github.com/mfkl/awesome-vlc) ⭐ 264 | 🐛 1 | 📅 2026-03-17 with stars
 
 > [VLC](https://www.videolan.org/vlc/) is a free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols.
 
@@ -27,7 +27,7 @@ This is a list of awesome resources about VLC and LibVLC.
 
 * [vlc-pause-click-plugin](https://github.com/nurupo/vlc-pause-click-plugin) ⭐ 1,155 | 🐛 19 | 🌐 C | 📅 2025-01-28 - Plugin for VLC that pauses/plays video on mouse click.
 * [vlc-bittorrent](https://github.com/johang/vlc-bittorrent) ⭐ 473 | 🐛 8 | 🌐 C++ | 📅 2026-03-11 - A bittorrent plugin for VLC.
-* [vlc-win10smtc](https://github.com/spmn/vlc-win10smtc) ⭐ 105 | 🐛 1 | 🌐 C++ | 📅 2024-10-06 - Plugin that integrates VLC Media Player with Windows 10 System Media Transport Controls (SMTC).
+* [vlc-win10smtc](https://github.com/spmn/vlc-win10smtc) ⭐ 106 | 🐛 1 | 🌐 C++ | 📅 2024-10-06 - Plugin that integrates VLC Media Player with Windows 10 System Media Transport Controls (SMTC).
 * [vlc-tip-plugin](https://github.com/aklexel/vlc-tip-plugin) ⭐ 60 | 🐛 2 | 🌐 C | 📅 2020-05-24 - TIP (translate it, please) is a plugin for VLC media player that helps you to study languages by watching videos.
 * [vlc-plugin-marker](https://github.com/nemosharma6/vlc-plugin-marker) ⭐ 11 | 🐛 1 | 🌐 Lua | 📅 2019-06-01 - The marker plugin provides you the ability to mark important sections of a video. These sections can be viewed later without the need to search for it in the entire video.
 * [vlc-mixer](https://github.com/lachie/vlc-mixer) ⭐ 2 | 🐛 0 | 🌐 Zig | 📅 2021-07-01 - Audio mixer VLC plugin written in Zig.
@@ -50,8 +50,8 @@ This is a list of awesome resources about VLC and LibVLC.
 
 ## Bindings
 
-* [LibVLCSharp](https://github.com/videolan/libvlcsharp) ⭐ 1,749 | 🐛 5 | 🌐 C# | 📅 2026-02-25 - Cross-platform .NET/Mono bindings for LibVLC.
-* [vlcj](https://github.com/caprica/vlcj) ⭐ 1,227 | 🐛 1 | 🌐 Java | 📅 2026-02-22 -  Java framework for the vlc media player (desktop).
+* [LibVLCSharp](https://github.com/videolan/libvlcsharp) ⭐ 1,750 | 🐛 5 | 🌐 C# | 📅 2026-02-25 - Cross-platform .NET/Mono bindings for LibVLC.
+* [vlcj](https://github.com/caprica/vlcj) ⭐ 1,228 | 🐛 1 | 🌐 Java | 📅 2026-02-22 -  Java framework for the vlc media player (desktop).
 * [WebChimera.js](https://github.com/RSATom/WebChimera.js) ⚠️ Archived - Electron bindings for libvlc.
 * [flutter\_vlc\_player](https://github.com/solid-software/flutter_vlc_player) ⭐ 604 | 🐛 364 | 🌐 Dart | 📅 2025-09-25 - Flutter bindings to LibVLC.
 * [dart\_vlc](https://github.com/alexmercerind/dart_vlc) ⭐ 527 | 🐛 53 | 🌐 C++ | 📅 2024-06-14 - Dart bindings for libvlc.
@@ -69,6 +69,7 @@ This is a list of awesome resources about VLC and LibVLC.
 * [HLS Record tutorial](https://mfkl.github.io/hls/2018/10/10/How-to-record-HLS-stream-with-LibVLCSharp-and-.NET-Core.html) - How to record an HLS stream with LibVLCSharp and .NET Core.
 * [RTSP mosaic tutorial](https://mfkl.github.io/libvlc/rtsp/xamarin/forms/2018/12/05/crossplatform-RTSP-mosaic-views-with-libvlcsharp.html) - Cross-platform RTSP Mosaic views with LibVLCSharp.
 * [MediaElement tutorial](https://doumer.me/vlc-media-player-in-xamarinforms-alternative-avplayer-andmediaplayer) - VLC Media Player control in Xamarin Forms.
+* [LibVLC LLM Skill](https://github.com/mfkl/libvlc-skill) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-10 - A Claude Code plugin that gives AI coding assistants deep knowledge of the libvlc API (both 3.x and 4.x), the multimedia framework behind VLC media player.
 
 ## Ebook
 
