@@ -1,4 +1,4 @@
-# Awesome VLC [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [<img src="https://cdn.worldvectorlogo.com/logos/vlc.svg" align="right" alt="VLC" width="128">](https://github.com/mfkl/awesome-vlc) ⭐ 264 | 🐛 1 | 📅 2026-03-17 with stars
+# Awesome VLC [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [<img src="https://cdn.worldvectorlogo.com/logos/vlc.svg" align="right" alt="VLC" width="128">](https://github.com/mfkl/awesome-vlc) ⭐ 264 | 🐛 0 | 📅 2026-03-18 with stars
 
 > [VLC](https://www.videolan.org/vlc/) is a free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols.
 
@@ -39,6 +39,7 @@ This is a list of awesome resources about VLC and LibVLC.
 * [vlc-super-skipper](https://github.com/Trevelopment/vlc-super-skipper) ⭐ 16 | 🐛 1 | 🌐 Lua | 📅 2021-08-12 - Automatically Skip Opening and Ending Sequences.
 * [vlc-mcp-server](https://github.com/piebro/vlc-mcp-server) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2025-06-11 -  An MCP (Model Context Protocol) Server to play and control movies using the VLC HTTP API and natural language using an LLM.
 * [playlist-youtube-vlc](https://github.com/Abstraxt-AA/playlist-youtube-vlc) ⭐ 7 | 🐛 0 | 🌐 Lua | 📅 2021-09-26 - Lua plugin to parse Youtube playlists.
+* [vlc-auto-dir-enqueue-prev-next](https://github.com/eltoro0815/vlc-auto-dir-enqueue-prev-next) ⭐ 2 | 🐛 1 | 🌐 Lua | 📅 2025-09-19 - Automatically adds the previous and next track from the same directory to the VLC playlist as soon as a file starts playing.
 * [VideoLAN addons website](https://addons.videolan.org/browse/) - VideoLAN addons website.
 
 ## Apps
@@ -50,7 +51,7 @@ This is a list of awesome resources about VLC and LibVLC.
 
 ## Bindings
 
-* [LibVLCSharp](https://github.com/videolan/libvlcsharp) ⭐ 1,750 | 🐛 5 | 🌐 C# | 📅 2026-02-25 - Cross-platform .NET/Mono bindings for LibVLC.
+* [LibVLCSharp](https://github.com/videolan/libvlcsharp) ⭐ 1,749 | 🐛 5 | 🌐 C# | 📅 2026-02-25 - Cross-platform .NET/Mono bindings for LibVLC.
 * [vlcj](https://github.com/caprica/vlcj) ⭐ 1,228 | 🐛 1 | 🌐 Java | 📅 2026-02-22 -  Java framework for the vlc media player (desktop).
 * [WebChimera.js](https://github.com/RSATom/WebChimera.js) ⚠️ Archived - Electron bindings for libvlc.
 * [flutter\_vlc\_player](https://github.com/solid-software/flutter_vlc_player) ⭐ 604 | 🐛 364 | 🌐 Dart | 📅 2025-09-25 - Flutter bindings to LibVLC.
