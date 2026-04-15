@@ -25,9 +25,9 @@ This is a list of awesome resources about VLC and LibVLC.
 
 ## VLC native plugins
 
-* [vlc-pause-click-plugin](https://github.com/nurupo/vlc-pause-click-plugin) ⭐ 1,162 | 🐛 19 | 🌐 C | 📅 2025-01-28 - Plugin for VLC that pauses/plays video on mouse click.
+* [vlc-pause-click-plugin](https://github.com/nurupo/vlc-pause-click-plugin) ⭐ 1,164 | 🐛 19 | 🌐 C | 📅 2025-01-28 - Plugin for VLC that pauses/plays video on mouse click.
 * [vlc-bittorrent](https://github.com/johang/vlc-bittorrent) ⭐ 474 | 🐛 8 | 🌐 C++ | 📅 2026-03-11 - A bittorrent plugin for VLC.
-* [vlc-win10smtc](https://github.com/spmn/vlc-win10smtc) ⭐ 112 | 🐛 1 | 🌐 C++ | 📅 2024-10-06 - Plugin that integrates VLC Media Player with Windows 10 System Media Transport Controls (SMTC).
+* [vlc-win10smtc](https://github.com/spmn/vlc-win10smtc) ⭐ 113 | 🐛 1 | 🌐 C++ | 📅 2024-10-06 - Plugin that integrates VLC Media Player with Windows 10 System Media Transport Controls (SMTC).
 * [vlc-tip-plugin](https://github.com/aklexel/vlc-tip-plugin) ⭐ 60 | 🐛 2 | 🌐 C | 📅 2020-05-24 - TIP (translate it, please) is a plugin for VLC media player that helps you to study languages by watching videos.
 * [vlc-plugin-marker](https://github.com/nemosharma6/vlc-plugin-marker) ⭐ 12 | 🐛 1 | 🌐 Lua | 📅 2019-06-01 - The marker plugin provides you the ability to mark important sections of a video. These sections can be viewed later without the need to search for it in the entire video.
 * [vlc-mixer](https://github.com/lachie/vlc-mixer) ⭐ 3 | 🐛 0 | 🌐 Zig | 📅 2021-07-01 - Audio mixer VLC plugin written in Zig.
@@ -51,10 +51,10 @@ This is a list of awesome resources about VLC and LibVLC.
 
 ## Bindings
 
-* [LibVLCSharp](https://github.com/videolan/libvlcsharp) ⭐ 1,761 | 🐛 7 | 🌐 C# | 📅 2026-04-08 - Cross-platform .NET/Mono bindings for LibVLC.
+* [LibVLCSharp](https://github.com/videolan/libvlcsharp) ⭐ 1,762 | 🐛 7 | 🌐 C# | 📅 2026-04-08 - Cross-platform .NET/Mono bindings for LibVLC.
 * [vlcj](https://github.com/caprica/vlcj) ⭐ 1,234 | 🐛 1 | 🌐 Java | 📅 2026-02-22 -  Java framework for the vlc media player (desktop).
 * [WebChimera.js](https://github.com/RSATom/WebChimera.js) ⚠️ Archived - Electron bindings for libvlc.
-* [flutter\_vlc\_player](https://github.com/solid-software/flutter_vlc_player) ⭐ 604 | 🐛 366 | 🌐 Dart | 📅 2025-09-25 - Flutter bindings to LibVLC.
+* [flutter\_vlc\_player](https://github.com/solid-software/flutter_vlc_player) ⭐ 605 | 🐛 366 | 🌐 Dart | 📅 2025-09-25 - Flutter bindings to LibVLC.
 * [dart\_vlc](https://github.com/alexmercerind/dart_vlc) ⭐ 527 | 🐛 53 | 🌐 C++ | 📅 2024-06-14 - Dart bindings for libvlc.
 * [libvlc-go](https://github.com/adrg/libvlc-go) ⭐ 507 | 🐛 12 | 🌐 Go | 📅 2025-12-03 - Go bindings for libVLC and high-level media player interface.
 * [python-vlc](https://github.com/oaubert/python-vlc) ⭐ 435 | 🐛 92 | 🌐 Python | 📅 2025-06-09 - Python vlc bindings.
