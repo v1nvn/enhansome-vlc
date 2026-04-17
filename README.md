@@ -35,7 +35,7 @@ This is a list of awesome resources about VLC and LibVLC.
 ## VLC web & lua extensions
 
 * [TraktForVLC](https://github.com/XaF/TraktForVLC) ⭐ 313 | 🐛 32 | 🌐 Python | 📅 2019-02-03 - Automatically trakt.tv what you're watching on VLC.
-* [vlc-delete](https://github.com/surrim/vlc-delete) ⭐ 111 | 🐛 6 | 🌐 Lua | 📅 2025-12-25 - VLC extension to remove videos from the hard disk.
+* [vlc-delete](https://github.com/surrim/vlc-delete) ⭐ 110 | 🐛 6 | 🌐 Lua | 📅 2025-12-25 - VLC extension to remove videos from the hard disk.
 * [vlc-super-skipper](https://github.com/Trevelopment/vlc-super-skipper) ⭐ 17 | 🐛 1 | 🌐 Lua | 📅 2021-08-12 - Automatically Skip Opening and Ending Sequences.
 * [vlc-mcp-server](https://github.com/piebro/vlc-mcp-server) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2025-06-11 -  An MCP (Model Context Protocol) Server to play and control movies using the VLC HTTP API and natural language using an LLM.
 * [playlist-youtube-vlc](https://github.com/Abstraxt-AA/playlist-youtube-vlc) ⭐ 7 | 🐛 0 | 🌐 Lua | 📅 2021-09-26 - Lua plugin to parse Youtube playlists.
@@ -51,8 +51,8 @@ This is a list of awesome resources about VLC and LibVLC.
 
 ## Bindings
 
-* [LibVLCSharp](https://github.com/videolan/libvlcsharp) ⭐ 1,763 | 🐛 4 | 🌐 C# | 📅 2026-04-16 - Cross-platform .NET/Mono bindings for LibVLC.
-* [vlcj](https://github.com/caprica/vlcj) ⭐ 1,234 | 🐛 2 | 🌐 Java | 📅 2026-02-22 -  Java framework for the vlc media player (desktop).
+* [LibVLCSharp](https://github.com/videolan/libvlcsharp) ⭐ 1,763 | 🐛 3 | 🌐 C# | 📅 2026-04-16 - Cross-platform .NET/Mono bindings for LibVLC.
+* [vlcj](https://github.com/caprica/vlcj) ⭐ 1,235 | 🐛 2 | 🌐 Java | 📅 2026-02-22 -  Java framework for the vlc media player (desktop).
 * [WebChimera.js](https://github.com/RSATom/WebChimera.js) ⚠️ Archived - Electron bindings for libvlc.
 * [flutter\_vlc\_player](https://github.com/solid-software/flutter_vlc_player) ⭐ 605 | 🐛 366 | 🌐 Dart | 📅 2025-09-25 - Flutter bindings to LibVLC.
 * [dart\_vlc](https://github.com/alexmercerind/dart_vlc) ⭐ 527 | 🐛 53 | 🌐 C++ | 📅 2024-06-14 - Dart bindings for libvlc.
