@@ -1,4 +1,4 @@
-# Awesome VLC [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [<img src="https://cdn.worldvectorlogo.com/logos/vlc.svg" align="right" alt="VLC" width="128">](https://github.com/mfkl/awesome-vlc) ⭐ 269 | 🐛 0 | 📅 2026-03-18 with stars
+# Awesome VLC [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [<img src="https://cdn.worldvectorlogo.com/logos/vlc.svg" align="right" alt="VLC" width="128">](https://github.com/mfkl/awesome-vlc) ⭐ 270 | 🐛 0 | 📅 2026-03-18 with stars
 
 > [VLC](https://www.videolan.org/vlc/) is a free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols.
 
@@ -25,11 +25,11 @@ This is a list of awesome resources about VLC and LibVLC.
 
 ## VLC native plugins
 
-* [vlc-pause-click-plugin](https://github.com/nurupo/vlc-pause-click-plugin) ⭐ 1,167 | 🐛 19 | 🌐 C | 📅 2025-01-28 - Plugin for VLC that pauses/plays video on mouse click.
-* [vlc-bittorrent](https://github.com/johang/vlc-bittorrent) ⭐ 478 | 🐛 8 | 🌐 C++ | 📅 2026-03-11 - A bittorrent plugin for VLC.
-* [vlc-win10smtc](https://github.com/spmn/vlc-win10smtc) ⭐ 115 | 🐛 1 | 🌐 C++ | 📅 2024-10-06 - Plugin that integrates VLC Media Player with Windows 10 System Media Transport Controls (SMTC).
+* [vlc-pause-click-plugin](https://github.com/nurupo/vlc-pause-click-plugin) ⭐ 1,166 | 🐛 19 | 🌐 C | 📅 2025-01-28 - Plugin for VLC that pauses/plays video on mouse click.
+* [vlc-bittorrent](https://github.com/johang/vlc-bittorrent) ⭐ 479 | 🐛 8 | 🌐 C++ | 📅 2026-03-11 - A bittorrent plugin for VLC.
+* [vlc-win10smtc](https://github.com/spmn/vlc-win10smtc) ⭐ 116 | 🐛 1 | 🌐 C++ | 📅 2024-10-06 - Plugin that integrates VLC Media Player with Windows 10 System Media Transport Controls (SMTC).
 * [vlc-tip-plugin](https://github.com/aklexel/vlc-tip-plugin) ⭐ 60 | 🐛 2 | 🌐 C | 📅 2020-05-24 - TIP (translate it, please) is a plugin for VLC media player that helps you to study languages by watching videos.
-* [vlc-plugin-marker](https://github.com/nemosharma6/vlc-plugin-marker) ⭐ 12 | 🐛 1 | 🌐 Lua | 📅 2019-06-01 - The marker plugin provides you the ability to mark important sections of a video. These sections can be viewed later without the need to search for it in the entire video.
+* [vlc-plugin-marker](https://github.com/nemosharma6/vlc-plugin-marker) ⭐ 13 | 🐛 1 | 🌐 Lua | 📅 2019-06-01 - The marker plugin provides you the ability to mark important sections of a video. These sections can be viewed later without the need to search for it in the entire video.
 * [vlc-mixer](https://github.com/lachie/vlc-mixer) ⭐ 3 | 🐛 0 | 🌐 Zig | 📅 2021-07-01 - Audio mixer VLC plugin written in Zig.
 
 ## VLC web & lua extensions
@@ -38,7 +38,7 @@ This is a list of awesome resources about VLC and LibVLC.
 * [vlc-delete](https://github.com/surrim/vlc-delete) ⭐ 112 | 🐛 6 | 🌐 Lua | 📅 2025-12-25 - VLC extension to remove videos from the hard disk.
 * [vlc-super-skipper](https://github.com/Trevelopment/vlc-super-skipper) ⭐ 18 | 🐛 1 | 🌐 Lua | 📅 2021-08-12 - Automatically Skip Opening and Ending Sequences.
 * [vlc-mcp-server](https://github.com/piebro/vlc-mcp-server) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2025-06-11 -  An MCP (Model Context Protocol) Server to play and control movies using the VLC HTTP API and natural language using an LLM.
-* [playlist-youtube-vlc](https://github.com/Abstraxt-AA/playlist-youtube-vlc) ⭐ 8 | 🐛 0 | 🌐 Lua | 📅 2021-09-26 - Lua plugin to parse Youtube playlists.
+* [playlist-youtube-vlc](https://github.com/Abstraxt-AA/playlist-youtube-vlc) ⭐ 9 | 🐛 0 | 🌐 Lua | 📅 2021-09-26 - Lua plugin to parse Youtube playlists.
 * [vlc-auto-dir-enqueue-prev-next](https://github.com/eltoro0815/vlc-auto-dir-enqueue-prev-next) ⭐ 4 | 🐛 1 | 🌐 Lua | 📅 2025-09-19 - Automatically adds the previous and next track from the same directory to the VLC playlist as soon as a file starts playing.
 * [VideoLAN addons website](https://addons.videolan.org/browse/) - VideoLAN addons website.
 
@@ -56,7 +56,7 @@ This is a list of awesome resources about VLC and LibVLC.
 * [WebChimera.js](https://github.com/RSATom/WebChimera.js) ⚠️ Archived - Electron bindings for libvlc.
 * [flutter\_vlc\_player](https://github.com/solid-software/flutter_vlc_player) ⭐ 604 | 🐛 366 | 🌐 Dart | 📅 2025-09-25 - Flutter bindings to LibVLC.
 * [dart\_vlc](https://github.com/alexmercerind/dart_vlc) ⭐ 527 | 🐛 53 | 🌐 C++ | 📅 2024-06-14 - Dart bindings for libvlc.
-* [libvlc-go](https://github.com/adrg/libvlc-go) ⭐ 507 | 🐛 12 | 🌐 Go | 📅 2025-12-03 - Go bindings for libVLC and high-level media player interface.
+* [libvlc-go](https://github.com/adrg/libvlc-go) ⭐ 508 | 🐛 12 | 🌐 Go | 📅 2025-12-03 - Go bindings for libVLC and high-level media player interface.
 * [python-vlc](https://github.com/oaubert/python-vlc) ⭐ 435 | 🐛 92 | 🌐 Python | 📅 2025-06-09 - Python vlc bindings.
 * [libvlc-zig](https://github.com/kassane/libvlc-zig) ⭐ 21 | 🐛 7 | 🌐 Zig | 📅 2023-09-03 - Zig bindings for libVLC.
 * [VLCKit](https://code.videolan.org/videolan/VLCKit) - The libvlc bindings for macOS, iOS, iPadOS and tvOS in Objective-C.
