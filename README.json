@@ -13,7 +13,7 @@
             "last_commit": "2025-01-28T11:12:45Z",
             "owner": "nurupo",
             "repo": "vlc-pause-click-plugin",
-            "stars": 1172
+            "stars": 1173
           }
         },
         {
@@ -39,7 +39,7 @@
             "last_commit": "2026-03-11T07:58:20Z",
             "owner": "johang",
             "repo": "vlc-bittorrent",
-            "stars": 480
+            "stars": 482
           }
         },
         {
@@ -167,7 +167,7 @@
             "last_commit": "2025-09-19T19:57:29Z",
             "owner": "eltoro0815",
             "repo": "vlc-auto-dir-enqueue-prev-next",
-            "stars": 4
+            "stars": 5
           }
         }
       ],
@@ -315,7 +315,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-08T04:48:15.258Z",
+    "last_updated": "2026-05-09T05:15:06.079Z",
     "original_repository": "mfkl/awesome-vlc",
     "source_repository": "v1nvn/enhansome-vlc",
     "source_repository_description": null,
