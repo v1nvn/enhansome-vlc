@@ -227,7 +227,7 @@
             "last_commit": "2026-04-21T09:47:09Z",
             "owner": "videolan",
             "repo": "libvlcsharp",
-            "stars": 1774
+            "stars": 1777
           }
         },
         {
@@ -276,7 +276,7 @@
             "last_commit": "2024-06-14T08:39:52Z",
             "owner": "alexmercerind",
             "repo": "dart_vlc",
-            "stars": 527
+            "stars": 528
           }
         },
         {
@@ -315,7 +315,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-10T05:30:00.348Z",
+    "last_updated": "2026-05-11T05:50:48.829Z",
     "original_repository": "mfkl/awesome-vlc",
     "source_repository": "v1nvn/enhansome-vlc",
     "source_repository_description": null,
