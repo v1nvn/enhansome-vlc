@@ -13,7 +13,7 @@
             "last_commit": "2025-01-28T11:12:45Z",
             "owner": "nurupo",
             "repo": "vlc-pause-click-plugin",
-            "stars": 1174
+            "stars": 1175
           }
         },
         {
@@ -227,7 +227,7 @@
             "last_commit": "2026-04-21T09:47:09Z",
             "owner": "videolan",
             "repo": "libvlcsharp",
-            "stars": 1778
+            "stars": 1779
           }
         },
         {
@@ -315,7 +315,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-15T05:46:11.353Z",
+    "last_updated": "2026-05-16T05:19:54.219Z",
     "original_repository": "mfkl/awesome-vlc",
     "source_repository": "v1nvn/enhansome-vlc",
     "source_repository_description": null,
